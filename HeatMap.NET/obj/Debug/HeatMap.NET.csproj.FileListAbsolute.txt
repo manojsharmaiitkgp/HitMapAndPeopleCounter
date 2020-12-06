@@ -1,0 +1,7 @@
+D:\heatmapdotnet-master\heatmapdotnet-master\HeatMap.NET\bin\Debug\HeatMap.NET.dll
+D:\heatmapdotnet-master\heatmapdotnet-master\HeatMap.NET\bin\Debug\HeatMap.NET.pdb
+D:\heatmapdotnet-master\heatmapdotnet-master\HeatMap.NET\obj\Debug\HeatMap.NET.csprojResolveAssemblyReference.cache
+D:\heatmapdotnet-master\heatmapdotnet-master\HeatMap.NET\obj\Debug\HeatMap.NET.Resources.resources
+D:\heatmapdotnet-master\heatmapdotnet-master\HeatMap.NET\obj\Debug\HeatMap.NET.csproj.GenerateResource.Cache
+D:\heatmapdotnet-master\heatmapdotnet-master\HeatMap.NET\obj\Debug\HeatMap.NET.dll
+D:\heatmapdotnet-master\heatmapdotnet-master\HeatMap.NET\obj\Debug\HeatMap.NET.pdb

@@ -1,0 +1,67 @@
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe.config
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csprojResolveAssemblyReference.cache
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Form1.resources
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Properties.Resources.resources
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.GenerateResource.Cache
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.Microsoft.Office.Core.dll
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.ResolveComReference.cache
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.LCC11.dll
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.MSORUNLib.dll
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.pdb
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.exe
+c:\users\manoj\documents\visual studio 2012\Projects\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.pdb
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe.config
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.pdb
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csprojResolveAssemblyReference.cache
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.LCC11.dll
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.MSORUNLib.dll
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.ResolveComReference.cache
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Form1.resources
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Properties.Resources.resources
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.GenerateResource.Cache
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.exe
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.pdb
+D:\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\db1.sdf
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe.config
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.LCC11.dll
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.MSORUNLib.dll
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.ResolveComReference.cache
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.exe
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.pdb
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\db1.sdf
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.pdb
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csprojResolveAssemblyReference.cache
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Form1.resources
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Properties.Resources.resources
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.GenerateResource.Cache
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Form2.resources
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\HeatMap.NET.dll
+D:\companywork\project\project\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\HeatMap.NET.pdb
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\db1.sdf
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe.config
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.exe
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.pdb
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\HeatMap.NET.dll
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\HeatMap.NET.pdb
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.LCC11.dll
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\Interop.MSORUNLib.dll
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.ResolveComReference.cache
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Form1.resources
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Form2.resources
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Properties.Resources.resources
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csproj.GenerateResource.Cache
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.exe
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.pdb
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.csprojResolveAssemblyReference.cache
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Resource1.resources
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\RdlCompile.cache
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\RdlCompile.compiled
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\bin\Debug\VideoAnalytics4StoreLines.XML
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.AboutBox1.resources
+D:\12112015\company\company\VideoAnalytics4StoreLines\VideoAnalytics4StoreLines\obj\Debug\VideoAnalytics4StoreLines.Form3.resources
